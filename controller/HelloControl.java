@@ -1,4 +1,4 @@
-package com.tedu.controller;
+package com.tedu.controller
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
